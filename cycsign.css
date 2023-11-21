@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* background-color: #e4e4e4; */
+}
+body{
+    background:linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.5)), url(images/cyc9.jpeg);
+    background-position: center;
+    background-size: cover;
+    
+    /* background-color: white; */
+}
+.g-3{
+    margin: 30px 28%;
+    background: white ;
+    border: 1px solid transparent white;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
